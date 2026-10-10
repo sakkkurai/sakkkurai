@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="src/frieren_uw_4k.jpg" width="87%" alt="banner">
-</p>
+![banner](src/frieren_uw_4k.jpg)
 
 ## overview
 welcome. i'm mykhailo.<br>
