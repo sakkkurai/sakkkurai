@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/frieren_uw_4k.jpg" width="100%" alt="banner">
+  <img src="src/frieren_uw_4k.jpg" width="85%" alt="banner">
 </p>
 
 ## overview
