@@ -1,7 +1,6 @@
 <p align="center">
   <img src="src/frieren_uw_4k.jpg" width="85%" alt="banner">
 </p>
-
 ## overview
 welcome. i'm mykhailo.<br>
 developer and student.<br>
